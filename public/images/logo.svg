@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Apex Athletics logo">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#7c3aed" />
+      <stop offset="100%" stop-color="#22c55e" />
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="48" fill="#0f172a" />
+  <rect x="18" y="18" width="220" height="220" rx="38" fill="url(#g)" opacity="0.12" />
+  <path d="M64 85h128v24H64zM64 123h128v24H64zM64 161h88v24H64z" fill="url(#g)" />
+  <circle cx="190" cy="173" r="16" fill="#22c55e" />
+</svg>
